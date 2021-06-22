@@ -1,0 +1,2 @@
+flex property
+用于大尺寸内容时，像image，会溢出可视范围。要控制大小，就可用flex，与div container的方式，必须要加container,否则不起作用。
